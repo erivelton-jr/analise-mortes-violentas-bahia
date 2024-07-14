@@ -2,7 +2,7 @@
 
 [![nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange)](https://nbviewer.org/github/erivelton-jr/analise-mortes-violentas-bahia/tree/main/CrimeData_Analysis_Complete.ipynb)
 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/erivelton-jr/analise-mortes-violentas-bahia/blob/main/CrimeData_Analysis_Complete.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/erivelton-jr/analise-mortes-violentas-bahia/blob/main/CrimeData_Analysis_Complete.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
